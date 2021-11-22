@@ -1,4 +1,4 @@
-%application that shows a certain date for a pre-giben day, month and year, starting from year 1 to 2xxx
+%application that shows a certain date for a pre-given day, month and year, starting from year 1 to 2xxx
 
 % Knowledge
 month(1, 0).
